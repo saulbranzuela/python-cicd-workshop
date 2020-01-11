@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.git",
-    "\\.git\\refs",
-    "\\Local settings (.vs)",
-    "\\terraform\\google_cloud"
+    "\\.circleci"
   ],
-  "SelectedNode": "\\Local settings (.vs)",
+  "SelectedNode": "\\.circleci\\config.yml",
   "PreviewInSolutionExplorer": false
 }
