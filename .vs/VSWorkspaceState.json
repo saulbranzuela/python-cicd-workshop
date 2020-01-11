@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.git",
+    "\\.git\\refs",
+    "\\Local settings (.vs)",
+    "\\terraform\\google_cloud"
+  ],
+  "SelectedNode": "\\Local settings (.vs)",
+  "PreviewInSolutionExplorer": false
+}
